@@ -1,7 +1,8 @@
 # utils
 - mytoken.py: PyGTK script to show a token created by freeotp.
 
-You can launch it from Gnome 3 if you create a launcher at: .local/share/applications/mytoken.desktop 
+You can launch it from Gnome 3 if you create a launcher at: .local/share/applications/mytoken.desktop.
+
 ...
 [Desktop Entry]
 Encoding=UTF-8
